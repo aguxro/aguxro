@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on ... Estudiante de Los Pinos 
-- 🌱 I’m currently learning ... Estoy aprendiendo sobre tecnologia
+ Estudiante de Los Pinos 
+ Estoy aprendiendo sobre tecnologia
 
 
 <!--
