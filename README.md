@@ -1,7 +1,7 @@
 ### Hi there 👋
 
- Estudiante de Los Pinos 
- Estoy aprendiendo sobre tecnologia
+ -Estudiante de Los Pinos 
+ -Estoy aprendiendo sobre tecnologia
 
 
 <!--
